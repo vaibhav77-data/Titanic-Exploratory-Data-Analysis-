@@ -62,4 +62,4 @@ The following analyses were performed:
 Exploratory Data Analysis revealed that **gender, passenger class, and age** were the most important factors influencing survival.  
 The Titanic dataset is excellent for beginners to practice data analysis and visualization skills.
 **Author** - Vaibhav Thombare
-##Email## - vaibhavthombare7897@gmail.com
+**Email** - vaibhavthombare7897@gmail.com
